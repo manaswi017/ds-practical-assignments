@@ -1,0 +1,1 @@
+Hadoop is a big data framework. Hadoop processes big data.
